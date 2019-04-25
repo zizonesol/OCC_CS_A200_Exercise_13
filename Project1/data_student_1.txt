@@ -1,0 +1,10 @@
+94552281 David Park
+12345678 Abraham Lincoln
+98765432 Mark Zuckerberg
+34597123 Bill Gates
+97281412 Steven Hawking
+98624413 Bjarne Stroustrup
+87697371 Peter Pan
+87290145 Mickey Mouse
+76181342 Walt Disney
+-999
